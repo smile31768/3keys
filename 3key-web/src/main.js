@@ -10,6 +10,8 @@ import myZh from './i18n/zh'
 
 Vue.use(VueI18n)
 
+var notices = []
+
 const messages = {
   en: {
     ...myEn,
