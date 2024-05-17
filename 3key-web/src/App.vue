@@ -10,6 +10,11 @@
         <el-button type="text" @click="changeLang('en')" :class="[$i18n.locale === 'en' ? 'light' : 'normal']">English</el-button>
       </el-row>
       <el-row>
+        <li v-for="notice in notices">
+          {{ notice }}
+        </li>
+      </el-row>
+      <el-row>
       <el-popover
         placement="bottom"
         width="800"
