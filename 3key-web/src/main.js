@@ -10,7 +10,7 @@ import myZh from './i18n/zh'
 
 Vue.use(VueI18n)
 
-var notices = []
+var notices = ['默认是Ctrl C V和Enter，扫右边的码可以改按键的定义','如果插上电脑不识别，用酒精喷下插口引脚然后刷一刷，晾干再试试看','用的是国产青轴，轴和键帽都可以热插拔，不喜欢可以自己换掉']
 
 const messages = {
   en: {
