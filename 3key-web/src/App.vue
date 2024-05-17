@@ -55,6 +55,7 @@
         <img src="./assets/key2.png">
       </el-row>
       <el-row>
+	<p>{{ $t('index.originalauther') }}</p>
         <p><a href="https://www.bilibili.com/video/BV1M84y1n7r1" target="_blank">{{ $t('index.videoText') }}</a></p>
         <p>{{ $t('index.keyTest') }}</p>
         <p><a href="https://keyboard.bmcx.com/" target="_blank">https://keyboard.bmcx.com/</a></p>
