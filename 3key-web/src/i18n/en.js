@@ -13,7 +13,7 @@ export default {
         changeLog3:'7.The default keys are Ctrl C V and Enter, which can be customized above',
         changeLog1:'8.If the computer does not recognize it, spray the jack pins with alcohol and brush them, dry them and try again.',
         changeLog1_1:'',
-        changeLog2:'9.Key shafts and keycaps are hot-swappable, so you can swap them out yourself if you don't like them.',
+        changeLog2:'9.Key shafts and keycaps are hot-swappable, so you can swap them out yourself if you dont like them.',
         changeLog2_1:'',
         helpButton:'Help',
         connButtonText1:'Connect 3 Key keyboard',
