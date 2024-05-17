@@ -20,6 +20,7 @@ export default {
         keyAllLabel:'When the 3 keys are pressed at the same time, they act as an independent keys',
         keyAllTrue:'On',
         keyAllFalse:'Off',
+        originalauther:'Original Auther\'s info',
         videoText:'Video',
         keyTest:'Online Keyboard Testing Sites',
         mouseTest:'Online Mouse Testing Sites',
