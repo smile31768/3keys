@@ -20,6 +20,7 @@ export default {
         keyAllLabel:'3键同时按下时,作为独立按键',
         keyAllTrue:'开',
         keyAllFalse:'关',
+        originalauther:'原作者信息：',
         videoText:'视频介绍',
         keyTest:'在线键盘测试网站',
         mouseTest:'在线鼠标测试网站',
