@@ -23,6 +23,9 @@
           <el-row>{{ $t('index.helpTips4') }}</el-row>
           <el-row>{{ $t('index.helpTips5') }}</el-row>
           <el-row>{{ $t('index.helpTips6') }}</el-row>
+	  <el-row>{{ $t('index.changeLog3') }}</el-row>
+	  <el-row>{{ $t('index.changeLog1') }}</el-row>
+	  <el-row>{{ $t('index.changeLog2') }}</el-row>
         </div>
         <el-button slot="reference" type="info" icon="el-icon-chat-dot-round">{{ $t('index.helpButton') }}</el-button>
       </el-popover>
@@ -50,11 +53,6 @@
       </el-row>
       <el-row>
         <img src="./assets/key2.png">
-      </el-row>
-      <el-row>
-        <p>{{ $t('index.changeLog3') }}</p>
-        <p>{{ $t('index.changeLog1') }}</p>
-        <p>{{ $t('index.changeLog2') }}</p>
       </el-row>
       <el-row>
         <p><a href="https://www.bilibili.com/video/BV1M84y1n7r1" target="_blank">{{ $t('index.videoText') }}</a></p>
