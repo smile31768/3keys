@@ -15,7 +15,7 @@ export default {
         keyAllLabel:'3键同时按下时,作为独立按键',
         keyAllTrue:'开',
         keyAllFalse:'关',
-        changeLog3:'1.默认是Ctrl C V和Enter，扫右边的码可以改按键的定义',
+        changeLog3:'1.默认是Ctrl C V和Enter，在上面可以自定义',
         changeLog1:'2.如果插上电脑不识别，用酒精喷下插口引脚然后刷一刷，晾干再试试看',
         changeLog1_1:'',
         changeLog2:'3.用的是国产青轴，轴和键帽都可以热插拔，不喜欢可以自己换掉',
